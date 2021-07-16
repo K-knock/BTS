@@ -8,7 +8,7 @@
 <p align="center">
     <a href="/README.md">English</a>
     ·
-    <a href="/readme_kr.md">한국어</a>
+    <a href="/docs/kr/README.md">한국어</a>
 </p>
 
 # 필수 개념
@@ -18,7 +18,7 @@
 
 # 블루투스 공격들
 
-|공격방식|요약|
+|공격명|요약|
 |------|-------|
 |[BlueBorne](/)|TODO|
 |Bleedingbit|TODO|

@@ -20,17 +20,17 @@
 
 |공격명|요약|
 |------|-------|
-|[BlueBorne](/)|TODO|
-|Bleedingbit|TODO|
-|Fixed Coordinate Invalid Curve Attack|TODO|
-|SweynTooth|TODO|
-|KNOB|TODO|
-|BAIS|TODO|
-|Pairing Method Confusion|TODO|
-|BlueFrag|TODO|
-|Spectra|TODO|
-|BLURtooth|TODO|
-|BLESA|TODO|
-|BleedingTooth|TODO|
-|BlueMirror|TODO|
+|[BlueBorne](/docs/kr/attack/blueborne.md)|TODO|
+|[Bleedingbit](/docs/kr/attack/bleedingbit.md)|TODO|
+|[Fixed Coordinate Invalid Curve Attack](/docs/kr/attack/fixed-coordinate-invalid-curve-attack.md)|TODO|
+|[SweynTooth](/docs/kr/attack/sweyntooth.md)|TODO|
+|[KNOB](/docs/kr/attack/knob.md)|TODO|
+|[BAIS](/docs/kr/attack/bais.md)|TODO|
+|[Pairing Method Confusion](/docs/kr/attack/pairing-method-confusion.md)|TODO|
+|[BlueFrag](/docs/kr/attack/bluefrag.md)|TODO|
+|[Spectra](/docs/kr/attack/spectra.md)|TODO|
+|[BLURtooth](/docs/kr/attack/blurtooth.md)|TODO|
+|[BLESA](/docs/kr/attack/blesa.md)|TODO|
+|[BleedingTooth](/docs/kr/attack/bleedingtooth.md)|TODO|
+|[BlueMirror](/docs/kr/attack/bluemirror.md)|TODO|
 

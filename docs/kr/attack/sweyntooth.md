@@ -82,23 +82,23 @@
 	> 디도스 및 시스템 재가동 유발
 	> cause a denial of service
 	- CVE-2019-19192 
-	> ST마이크로일렉트로닉스 WB55 SDK 1.3.0 및 이전 버전에서 발견된 취약점.
+	> ST마이크로일렉트로닉스 WB55 SDK 1.3.0 및 이전 버전에서 발견된 취약점.   
 	> 연속된 Attribute Protocol (ATT) 요청으로 교착상태 발생
 	> 장비를 완전 마비 상태로 만듦
 	- CVE-2019-19193 
 	> 텍사스 인스트루먼트 CC2640R2 BLE-STACK과 CC2540 SDK에서 발견된 ‘부적절한 연결 요청’ 취약점 
-	> 디도스 유발 
-	> Invalid L2CAP Fragment
+	> 디도스 유발   
+	> Invalid L2CAP Fragment   
 	- CVE-2019-19194 
-	> 텔링크 세미컨덕터의 SMP가 구현된 장비들에서 발견된 취약점. 
-	> BLE 제품의 보안 장치를 완전히 회피하도록 함 
-	> Zero LTK Installation
+	> 텔링크 세미컨덕터의 SMP가 구현된 장비들에서 발견된 취약점.    
+	> BLE 제품의 보안 장치를 완전히 회피하도록 함    
+	> Zero LTK Installation   
 	- CVE-2019-19195  
-	> 마이크로칩 ATMSAMB11 BluSDK Smart 6.2 및 이전 버전에서 발견된 ‘부적절한 L2CAP 분할’ 취약점. 
-	> 장비 원격 재가동 유발
+	> 마이크로칩 ATMSAMB11 BluSDK Smart 6.2 및 이전 버전에서 발견된 ‘부적절한 L2CAP 분할’ 취약점.   
+	> 장비 원격 재가동 유발   
 	- CVE-2019-19196 
 	>텔링크 세미컨덕터의 BLE SDK에 영향을 주는 키 크기 오버플로우 취약점.
-	> 장비를 완전 마비 상태로 만듦
+	> 장비를 완전 마비 상태로 만듦   
 	- CVE-2020-10061 : Invalid Sequence Memory Corruption
  	- CVE-2020-10069 : Invalid Channel Map
  	- CVE-2020-13593 : DHCheck Skip

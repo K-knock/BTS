@@ -47,7 +47,7 @@
 > - *Zephyr Bluetooth Stack*   
 ***
 
-		crash
+	crash
 		- 특정코드 또는 메모리 변조에 의해 발생 (bof)
 		- 보통, 자동으로 재시작 된다. (제품에 따라 다를 수 있다.)
 	Deadlock 

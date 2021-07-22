@@ -107,7 +107,7 @@
  	- CVE-2020-13595   
    
 	[각 취약점에 대한 기술적인 내용들](https://asset-group.github.io/disclosures/sweyntooth/disclosure.html#technical-description, "link")
-
+***
 - 스웨인투스 취약점들이 일으킬 수 있는 현상
 1. 장비의 원격 기능 마비
 2. BLE 통신 해제 및 마비
@@ -115,11 +115,7 @@
 4. 장비 내 기능 및 서비스에 대한 임의 접근(읽기/쓰기)   
      
 **주로 2018~2019년에 출시된 IoT 장비들에 영향을 준다.**
-   
+***   
 - Exploit
-
-	.
-
+***
 - Paper
-
-	.

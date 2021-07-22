@@ -32,5 +32,5 @@
 ***
 - Exploit
 ***
-- Paper
+- Paper   
 https://francozappa.github.io/about-bias/publication/antonioli-20-bias/antonioli-20-bias.pdf https://francozappa.github.io/talk/wac20/talk/ 

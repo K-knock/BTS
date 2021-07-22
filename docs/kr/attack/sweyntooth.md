@@ -106,7 +106,7 @@
  	- CVE-2020-13594 : Invalid Channel Map*
  	- CVE-2020-13595   
    
-[각 취약점에 대한 기술적인 내용들](https://asset-group.github.io/disclosures/sweyntooth/disclosure.html#technical-description, "link")
+	[각 취약점에 대한 기술적인 내용들](https://asset-group.github.io/disclosures/sweyntooth/disclosure.html#technical-description, "link")
 
 - 스웨인투스 취약점들이 일으킬 수 있는 현상
 1. 장비의 원격 기능 마비

@@ -15,13 +15,13 @@
 > **BLE SDK 자체의 결함**에 의해 발생 
 > - 거의 모든 vendor들이 이미 펌웨어 업데이트 패치를 통해 보완함   
    
-**취약점** : 12가지   
+> **취약점** : 12가지   
    
-**공격 방식**   
-> deadlocks / crashes / buffer overflows / completely bypass 	security   
+> **공격 방식**   
+> > deadlocks / crashes / buffer overflows / completely bypass 	security   
    
-**vendor 목록**   
-> Texas Instruments, NXP, Cypress, Dialog Semiconductors, Microchip, STMicroelectronics, Telink Semiconductor   
+> **vendor 목록**   
+> > Texas Instruments, NXP, Cypress, Dialog Semiconductors, Microchip, STMicroelectronics, Telink Semiconductor   
 ***
 ### batch #2
 

@@ -82,6 +82,8 @@
 
              https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/authvalue-leak/
     - CVE-2020-26560
+
+
       
         (in. Bluetooth 메시 프로비저닝)
       - 취약점 : 메시 프로비저닝 절차속, Provisioner의 인증 증거를 반영하는 주변 장치가 AuthValue를 소유하지 않고 인증을 완료 가능.

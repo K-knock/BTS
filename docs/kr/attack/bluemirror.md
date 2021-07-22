@@ -34,7 +34,7 @@
 
         - '가단성 커밋' 취약점에 대한 Bluetooth SIG 선언
           [https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/malleable/](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/malleable/)
-    - CVE-2020-26557
+    - **CVE-2020-26557**
         - 취약점 : 메시 프로비저닝 절차속, 프로비저닝을 관찰하거나 참여하는 공격자가 **(1)AuthValue가 고정된 값**을 가지거나, **(2)예측 가능**하게 선택되거나, **(3)낮은 엔트로피**로 선택(→ 경우의수 줄어듬)되는 경우.
         - 공격 : 무차별 대입 공격 가능
 

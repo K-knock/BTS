@@ -1,10 +1,9 @@
 # SweynTooth
-### BLE, LE ( Bluetooth low Energy )
+#### BLE, LE ( Bluetooth low Energy )
 
 	동력이나 에너지원, 통신 기능이 뛰어나지 않은 사물인터넷 장비들의 배터리 절약을 위해 고안된 기술
 
-*SoC (System on a Chip) 제조사들은 이 기술을 구현하기 위해 BLE 소프트웨어 개발 키트를 운영하고 있는데, 
-여기서 취약점이 나온 것이다.*
+*SoC (System on a Chip) 제조사들은 위 기술을 구현하기 위해 BLE 소프트웨어 개발 키트를 운영하고 있는데, 여기서 취약점이 나온 것.*
 
 ## 관련 정보
 - CVE

@@ -21,10 +21,12 @@ Texas Instruments, NXP, Cypress, Dialog Semiconductors, Microchip, STMicroelectr
 ### batch #2
 
 > affected BLE stacks에 의해 발생    
-이를 사용하지 않도록 강하게 권고하고 있지만 이러한 내용이 잘 지켜지고 있는지에 대한 조사는 아직 이루어지지 않았음   
+>	> 이를 사용하지 않도록 강하게 권고하고 있지만 이러한 내용이 잘 지켜지고 있는지에 대한 조사는 아직 이루어지지 않았음   
 **취약점** : 5가지   
+   
 **공격 방식**   
 deadlocks / crashes / partially bypass security   
+   
 **vendor 목록**   
 Texas Instruments, Espressif, Microchip, ON Semiconductor, Zephyr Bluetooth Stack.   
 

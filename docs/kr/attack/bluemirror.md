@@ -4,7 +4,7 @@
 2. AuthValue의 공개를 허용 ..등
 ## 관련 정보
 - CVE
-    - CVE-2020-26555
+    - **CVE-2020-26555**
     
         **(in.핀 페어링 프로토콜)**
         - 취약점 : Bluetooth BR/EDR PIN 페어링 절차.
@@ -22,7 +22,7 @@
             [https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/impersonation-pin-pairing/](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/impersonation-pin-pairing/)
             
             
-    - CVE-2020-26556
+    - **CVE-2020-26556**
         - 취약점 : AuthValue가 무작위로 선택되더라도 프로비저닝 절차에서 AuthValue를 식별할 수 있음.
         - AuthValue를 식별하는 법
 
@@ -43,7 +43,7 @@
         - 'Bluetooth 메시 프로비저닝의 예측 가능한 AuthValue로 인해 MITM' 취약점에 대한 Bluetooth SIG 선언
 
             [https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/predicatable-authvalue/](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/predicatable-authvalue/)
-    - CVE-2020-26558
+    - **CVE-2020-26558**
     
         (in. Passkey Entry Protocol)
         - 취약점 :  Bluetooth LE 및 BR/EDR 보안 페어링 과정 속, 공개 키와 인증을 반영하여 (패스키 인증 절차에서) 페어링 중에 사용된 패스키를 근처의 중간자 공격자가 식별하도록 허용 가능.
@@ -65,7 +65,7 @@
 
              [https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/passkey-entry/](https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/passkey-entry/)
     
-    - CVE-2020-26559
+    - **CVE-2020-26559**
    
         (in. 메시프로비저닝 절차)
         - 취약점 : 메시 프로비저닝 절차에는 AuthValue에 대한 액세스 권한 없이 프로비저닝된 공격자가 무차별 대입 없이 AuthValue를 직접 식별할 수 있음.
@@ -81,7 +81,7 @@
         - 'AuthValue Leak' 취약점에 대한 Bluetooth SIG 설명
 
              https://www.bluetooth.com/learn-about-bluetooth/key-attributes/bluetooth-security/authvalue-leak/
-    - CVE-2020-26560
+    - **CVE-2020-26560**
 
 
       

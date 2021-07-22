@@ -60,12 +60,12 @@
 
 ## 관련 정보
 - CVE
-    - CVE-2019-16336 : cause a denial of service
+    - CVE-2019-16336 : 사이프레스 PSoC4/6 BLE에서 발견된 ‘링크 레이어 길이 오버플로우(Link Layer Length Overflow)’ 취약점. 디도스와 원격 명령 실행 유발
     - CVE-2019-17060 : LID(Link Layer ID)가 0인 패킷 수신 시 BOF 가능
-    - CVE-2019-17061 : LID(Link Layer ID)가 0인 패킷 수신 시 BOF 가능
+    - CVE-2019-17061 : 사이프레스 장비에서 발견된 링크 레이어 마비 오류, LID(Link Layer ID)가 0인 패킷 수신 시 BOF 가능
     - CVE-2019-17517 : L2CAP 페이로드 길이 제한이 없어서 buffer overflow 가능
     - CVE-2019-17518 : buffer overflow
-    - CVE-2019-17519 : buffer overflow
+    - CVE-2019-17519 : NXP KW41Z 3.40 SDK에서 발견된 ‘링크 레이어 길이 오버플로우’ 취약점. 디도스와 원격 명령 실행 유발
     - CVE-2019-17520 : cause a denial of service
     - CVE-2019-19192 : 연속된 Attribute Protocol (ATT) 요청으로 교착상태 발생
     - CVE-2019-19193

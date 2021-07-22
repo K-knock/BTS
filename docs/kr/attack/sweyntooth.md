@@ -5,6 +5,17 @@
 
 ***
 *SoC (System on a Chip) 제조사들은 위 기술을 구현하기 위해 BLE 소프트웨어 개발 키트를 운영하고 있는데, 여기서 취약점이 나온 것.*
+- **Harald Bluetooth**왕의 아들 **Sweyn Forkbeard**의 이름을 딴 것
+- batch 1과 batch 2, 두 종류의 취약점 존재
+### batch #1
+
+	BLE SDK 자체의 결함에 의해 발생 
+-> 거의 모든 vendor들이 이미 펌웨어 업데이트 패치를 통해 보완함
+취약점: 12가지
+공격 방식
+deadlocks / crashes / buffer overflows / completely bypass security
+vendor 목록
+Texas Instruments, NXP, Cypress, Dialog Semiconductors, Microchip, STMicroelectronics, Telink Semiconductor
 
 ## 관련 정보
 - CVE

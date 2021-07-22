@@ -18,16 +18,16 @@
 > **취약점** : 12가지   
 >   
 > **공격 방식**   
-> > deadlocks / crashes / buffer overflows / completely bypass 	security   
+> > *deadlocks* / *crashes* / *buffer overflows* / *completely bypass 	security*   
 >   
 > **vendor 목록**   
-> - Texas Instruments
-> - NXP
-> - Cypress
-> - Dialog Semiconductors
-> - Microchip
-> - STMicroelectronics
-> - Telink Semiconductor   
+> - *Texas Instruments*
+> - *NXP*
+> - *Cypress*
+> - *Dialog Semiconductors*
+> - *Microchip*
+> - *STMicroelectronics*
+> - *Telink Semiconductor*   
 ***
 ### batch #2
 
@@ -41,7 +41,10 @@
 > > deadlocks / crashes / partially bypass security   
 >   
 > **vendor 목록**   
-> > Texas Instruments, Espressif, Microchip, ON Semiconductor, Zephyr Bluetooth Stack.   
+> - *Texas Instruments*
+> - *Espressif, Microchip*
+> - *ON Semiconductor*
+> - *Zephyr Bluetooth Stack*   
 ***
 ## 관련 정보
 - CVE

@@ -32,10 +32,10 @@ Texas Instruments, NXP, Cypress, Dialog Semiconductors, Microchip, STMicroelectr
 **취약점** : 5가지   
    
 **공격 방식**   
-deadlocks / crashes / partially bypass security   
+> deadlocks / crashes / partially bypass security   
    
 **vendor 목록**   
-Texas Instruments, Espressif, Microchip, ON Semiconductor, Zephyr Bluetooth Stack.   
+> Texas Instruments, Espressif, Microchip, ON Semiconductor, Zephyr Bluetooth Stack.   
 
 ## 관련 정보
 - CVE

@@ -118,4 +118,7 @@
 ***   
 - Exploit
 ***
-- Paper
+- Paper   
+http://www.ti.com/lit/pdf/swra676      
+https://asset-group.github.io/disclosures/sweyntooth/   
+https://e2e.ti.com/support/wireless-connectivity/bluetooth/f/538/t/881879   
